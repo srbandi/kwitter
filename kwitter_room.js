@@ -45,3 +45,4 @@ function redirect(room){
        localStorage.removeItem("username");
        window.location = "index.html";
  }
+ 
